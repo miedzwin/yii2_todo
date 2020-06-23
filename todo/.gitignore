@@ -6,3 +6,6 @@ protected/data/*.db
 themes/classic/views/
 
 .idea
+
+
+vendor

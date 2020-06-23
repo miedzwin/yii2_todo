@@ -1,0 +1,17 @@
+{
+    "name": "miedzwin/akquinet",
+    "require": {
+        "yiisoft/yii2": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Marek Sivicki",
+            "email": "mr.siwicki@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
